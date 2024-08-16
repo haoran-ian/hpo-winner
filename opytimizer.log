@@ -1,0 +1,197 @@
+2024-06-12 14:57:11,695 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 14:57:11,697 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 14:57:11,698 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:02:40,790 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:02:40,791 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:02:40,791 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:02:57,425 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:02:57,426 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:02:57,427 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:02:57,427 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:03:16,645 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:03:16,646 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:03:16,646 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:03:16,647 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:21:12,950 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:21:12,951 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:21:12,952 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:21:12,952 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:21:17,449 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:21:17,450 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:21:17,450 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:21:17,451 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:28:45,580 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:28:45,582 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:28:45,582 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:28:45,582 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:29:04,403 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:29:04,404 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:29:04,404 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:29:13,940 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:29:13,941 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:29:13,942 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:29:19,838 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:29:19,839 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:29:19,839 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:29:19,840 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:30:43,454 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:30:43,456 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:30:43,456 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:32:23,124 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:32:23,125 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:32:23,125 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:32:23,126 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:33:15,719 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:33:15,720 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:33:15,721 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:33:15,721 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:33:15,721 - opytimizer.core.function — DEBUG — Function: test_function | Built: True.
+2024-06-12 15:33:15,721 - opytimizer.core.function — INFO — Class created.
+2024-06-12 15:33:18,912 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:33:18,913 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:33:18,914 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:33:18,914 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:33:18,914 - opytimizer.core.function — DEBUG — Function: test_function | Built: True.
+2024-06-12 15:33:18,914 - opytimizer.core.function — INFO — Class created.
+2024-06-12 15:38:39,173 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:38:39,174 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:38:39,175 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:38:39,175 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:38:39,176 - opytimizer.utils.exception — ERROR — ArgumentError: `pointer` should only have 1 argument.
+2024-06-12 15:38:44,075 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:38:44,076 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:38:44,077 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:38:44,077 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:38:44,077 - opytimizer.utils.exception — ERROR — ArgumentError: `pointer` should only have 1 argument.
+2024-06-12 15:41:52,245 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:41:52,246 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:41:52,247 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:41:52,247 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:41:52,247 - opytimizer.core.function — DEBUG — Function: test_function | Built: True.
+2024-06-12 15:41:52,247 - opytimizer.core.function — INFO — Class created.
+2024-06-12 15:41:59,971 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:41:59,972 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:41:59,973 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:41:59,973 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:41:59,973 - opytimizer.core.function — DEBUG — Function: test_function | Built: True.
+2024-06-12 15:41:59,974 - opytimizer.core.function — INFO — Class created.
+2024-06-12 15:44:39,095 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:44:39,096 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:44:39,097 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:44:39,097 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:44:39,098 - opytimizer.core.function — DEBUG — Function: test_function | Built: True.
+2024-06-12 15:44:39,098 - opytimizer.core.function — INFO — Class created.
+2024-06-12 15:46:34,673 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:46:34,674 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:46:34,675 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:46:34,675 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:46:34,675 - opytimizer.core.function — DEBUG — Function: test_function | Built: True.
+2024-06-12 15:46:34,675 - opytimizer.core.function — INFO — Class created.
+2024-06-12 15:46:41,315 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:46:41,316 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:46:41,317 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:46:41,317 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:46:41,317 - opytimizer.core.function — DEBUG — Function: test_function | Built: True.
+2024-06-12 15:46:41,317 - opytimizer.core.function — INFO — Class created.
+2024-06-12 15:46:51,495 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:46:51,496 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:46:51,496 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:46:51,496 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:46:51,497 - opytimizer.core.function — DEBUG — Function: test_function | Built: True.
+2024-06-12 15:46:51,497 - opytimizer.core.function — INFO — Class created.
+2024-06-12 15:47:19,032 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:47:19,034 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:47:19,034 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:47:19,034 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:47:19,035 - opytimizer.core.function — DEBUG — Function: test_function | Built: True.
+2024-06-12 15:47:19,035 - opytimizer.core.function — INFO — Class created.
+2024-06-12 15:47:19,035 - opytimizer.optimizers.swarm.cs — INFO — Overriding class: Optimizer -> CS.
+2024-06-12 15:47:19,035 - opytimizer.core.optimizer — DEBUG — Algorithm: CS | Custom Parameters: None | Built: True.
+2024-06-12 15:47:19,035 - opytimizer.optimizers.swarm.cs — INFO — Class overrided.
+2024-06-12 15:47:19,035 - opytimizer.opytimizer — INFO — Creating class: Opytimizer.
+2024-06-12 15:47:19,036 - opytimizer.opytimizer — DEBUG — Space: <opytimizer.spaces.search.SearchSpace object at 0x7f48b064b460> | Optimizer: <opytimizer.optimizers.swarm.cs.CS object at 0x7f480dd10d00>| Function: <opytimizer.core.function.Function object at 0x7f480de86230>.
+2024-06-12 15:47:19,036 - opytimizer.opytimizer — INFO — Class created.
+2024-06-12 15:47:19,036 - opytimizer.opytimizer — INFO — Starting optimization task.
+2024-06-12 15:47:19,036 - opytimizer.utils.exception — ERROR — TypeError: `fit` should be a float or integer.
+2024-06-12 15:47:42,617 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:47:42,618 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:47:42,618 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:47:42,618 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:47:42,618 - opytimizer.core.function — DEBUG — Function: test_function | Built: True.
+2024-06-12 15:47:42,619 - opytimizer.core.function — INFO — Class created.
+2024-06-12 15:47:42,619 - opytimizer.optimizers.swarm.cs — INFO — Overriding class: Optimizer -> CS.
+2024-06-12 15:47:42,619 - opytimizer.core.optimizer — DEBUG — Algorithm: CS | Custom Parameters: None | Built: True.
+2024-06-12 15:47:42,619 - opytimizer.optimizers.swarm.cs — INFO — Class overrided.
+2024-06-12 15:47:42,619 - opytimizer.opytimizer — INFO — Creating class: Opytimizer.
+2024-06-12 15:47:42,619 - opytimizer.opytimizer — DEBUG — Space: <opytimizer.spaces.search.SearchSpace object at 0x7f2d62403a30> | Optimizer: <opytimizer.optimizers.swarm.cs.CS object at 0x7f2cbfac4c10>| Function: <opytimizer.core.function.Function object at 0x7f2cbfc36140>.
+2024-06-12 15:47:42,619 - opytimizer.opytimizer — INFO — Class created.
+2024-06-12 15:47:53,574 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:47:53,575 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:47:53,575 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:47:53,575 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:47:53,575 - opytimizer.core.function — DEBUG — Function: test_function | Built: True.
+2024-06-12 15:47:53,575 - opytimizer.core.function — INFO — Class created.
+2024-06-12 15:47:53,575 - opytimizer.optimizers.swarm.cs — INFO — Overriding class: Optimizer -> CS.
+2024-06-12 15:47:53,576 - opytimizer.core.optimizer — DEBUG — Algorithm: CS | Custom Parameters: None | Built: True.
+2024-06-12 15:47:53,576 - opytimizer.optimizers.swarm.cs — INFO — Class overrided.
+2024-06-12 15:47:53,576 - opytimizer.opytimizer — INFO — Creating class: Opytimizer.
+2024-06-12 15:47:53,576 - opytimizer.opytimizer — DEBUG — Space: <opytimizer.spaces.search.SearchSpace object at 0x7faf2125f460> | Optimizer: <opytimizer.optimizers.swarm.cs.CS object at 0x7fae7e920d00>| Function: <opytimizer.core.function.Function object at 0x7fae7ea96230>.
+2024-06-12 15:47:53,576 - opytimizer.opytimizer — INFO — Class created.
+2024-06-12 15:47:53,576 - opytimizer.opytimizer — INFO — Starting optimization task.
+2024-06-12 15:47:53,576 - opytimizer.utils.exception — ERROR — TypeError: `fit` should be a float or integer.
+2024-06-12 15:47:55,591 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:47:55,593 - opytimizer.core.space — DEBUG — Agents: 20 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:47:55,593 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:47:55,593 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:47:55,594 - opytimizer.core.function — DEBUG — Function: test_function | Built: True.
+2024-06-12 15:47:55,594 - opytimizer.core.function — INFO — Class created.
+2024-06-12 15:47:55,594 - opytimizer.optimizers.swarm.cs — INFO — Overriding class: Optimizer -> CS.
+2024-06-12 15:47:55,594 - opytimizer.core.optimizer — DEBUG — Algorithm: CS | Custom Parameters: None | Built: True.
+2024-06-12 15:47:55,594 - opytimizer.optimizers.swarm.cs — INFO — Class overrided.
+2024-06-12 15:47:55,594 - opytimizer.opytimizer — INFO — Creating class: Opytimizer.
+2024-06-12 15:47:55,594 - opytimizer.opytimizer — DEBUG — Space: <opytimizer.spaces.search.SearchSpace object at 0x7fb6700ff460> | Optimizer: <opytimizer.optimizers.swarm.cs.CS object at 0x7fb5cd7c4d00>| Function: <opytimizer.core.function.Function object at 0x7fb5cd93a230>.
+2024-06-12 15:47:55,594 - opytimizer.opytimizer — INFO — Class created.
+2024-06-12 15:47:55,594 - opytimizer.opytimizer — INFO — Starting optimization task.
+2024-06-12 15:47:55,595 - opytimizer.utils.exception — ERROR — TypeError: `fit` should be a float or integer.
+2024-06-12 15:48:28,838 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:48:28,839 - opytimizer.core.space — DEBUG — Agents: 1 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:48:28,839 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:48:28,839 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:48:28,839 - opytimizer.core.function — DEBUG — Function: test_function | Built: True.
+2024-06-12 15:48:28,840 - opytimizer.core.function — INFO — Class created.
+2024-06-12 15:48:28,840 - opytimizer.optimizers.swarm.cs — INFO — Overriding class: Optimizer -> CS.
+2024-06-12 15:48:28,840 - opytimizer.core.optimizer — DEBUG — Algorithm: CS | Custom Parameters: None | Built: True.
+2024-06-12 15:48:28,840 - opytimizer.optimizers.swarm.cs — INFO — Class overrided.
+2024-06-12 15:48:28,840 - opytimizer.opytimizer — INFO — Creating class: Opytimizer.
+2024-06-12 15:48:28,840 - opytimizer.opytimizer — DEBUG — Space: <opytimizer.spaces.search.SearchSpace object at 0x7f4c43d13460> | Optimizer: <opytimizer.optimizers.swarm.cs.CS object at 0x7f4ba13c0940>| Function: <opytimizer.core.function.Function object at 0x7f4ba153e200>.
+2024-06-12 15:48:28,840 - opytimizer.opytimizer — INFO — Class created.
+2024-06-12 15:48:28,840 - opytimizer.opytimizer — INFO — Starting optimization task.
+2024-06-12 15:48:28,840 - opytimizer.utils.exception — ERROR — TypeError: `fit` should be a float or integer.
+2024-06-12 15:52:14,632 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:52:14,633 - opytimizer.core.space — DEBUG — Agents: 1 | Size: (2, 1) | Lower Bound: [-5 -5] | Upper Bound: [5 5] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:52:14,633 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:52:14,633 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:52:14,633 - opytimizer.core.function — DEBUG — Function: test_function | Built: True.
+2024-06-12 15:52:14,634 - opytimizer.core.function — INFO — Class created.
+2024-06-12 15:52:14,634 - opytimizer.optimizers.swarm.cs — INFO — Overriding class: Optimizer -> CS.
+2024-06-12 15:52:14,634 - opytimizer.core.optimizer — DEBUG — Algorithm: CS | Custom Parameters: None | Built: True.
+2024-06-12 15:52:14,634 - opytimizer.optimizers.swarm.cs — INFO — Class overrided.
+2024-06-12 15:52:14,634 - opytimizer.opytimizer — INFO — Creating class: Opytimizer.
+2024-06-12 15:52:14,634 - opytimizer.opytimizer — DEBUG — Space: <opytimizer.spaces.search.SearchSpace object at 0x7fa4e1dafa30> | Optimizer: <opytimizer.optimizers.swarm.cs.CS object at 0x7fa43f4708b0>| Function: <opytimizer.core.function.Function object at 0x7fa43f5e2170>.
+2024-06-12 15:52:14,634 - opytimizer.opytimizer — INFO — Class created.
+2024-06-12 15:52:14,634 - opytimizer.opytimizer — INFO — Starting optimization task.
+2024-06-12 15:52:14,634 - opytimizer.utils.exception — ERROR — TypeError: `fit` should be a float or integer.
+2024-06-12 15:52:39,298 - opytimizer.spaces.search — INFO — Overriding class: Space -> SearchSpace.
+2024-06-12 15:52:39,300 - opytimizer.core.space — DEBUG — Agents: 1 | Size: (2, 1) | Lower Bound: [-5. -5.] | Upper Bound: [5. 5.] | Mapping: ['x0', 'x1'] | Built: True.
+2024-06-12 15:52:39,301 - opytimizer.spaces.search — INFO — Class overrided.
+2024-06-12 15:52:39,301 - opytimizer.core.function — INFO — Creating class: Function.
+2024-06-12 15:52:39,301 - opytimizer.core.function — DEBUG — Function: test_function | Built: True.
+2024-06-12 15:52:39,301 - opytimizer.core.function — INFO — Class created.
+2024-06-12 15:52:39,301 - opytimizer.optimizers.swarm.cs — INFO — Overriding class: Optimizer -> CS.
+2024-06-12 15:52:39,302 - opytimizer.core.optimizer — DEBUG — Algorithm: CS | Custom Parameters: None | Built: True.
+2024-06-12 15:52:39,302 - opytimizer.optimizers.swarm.cs — INFO — Class overrided.
+2024-06-12 15:52:39,302 - opytimizer.opytimizer — INFO — Creating class: Opytimizer.
+2024-06-12 15:52:39,302 - opytimizer.opytimizer — DEBUG — Space: <opytimizer.spaces.search.SearchSpace object at 0x7f07489ffa30> | Optimizer: <opytimizer.optimizers.swarm.cs.CS object at 0x7f06a60ac910>| Function: <opytimizer.core.function.Function object at 0x7f06a622a1d0>.
+2024-06-12 15:52:39,302 - opytimizer.opytimizer — INFO — Class created.
+2024-06-12 15:52:39,302 - opytimizer.opytimizer — INFO — Starting optimization task.
+2024-06-12 15:52:39,303 - opytimizer.utils.exception — ERROR — TypeError: `fit` should be a float or integer.
